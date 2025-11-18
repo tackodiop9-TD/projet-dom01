@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+}
+
+header{
+    margin-top: 0%;
+    }
+ #article{
+        display: flex;
+        margin-left: 150px;
+    }
+
+ 
+    .container{
+        align-items: center;
+    }
+
+    .quantite{
+        width: 45px;
+        height: 40px;
+        text-align: center;
+        border: none;
+    }
+
+    .btn btn-outline-warning{
+        color: red;
+    }
+
+    .btn btn-outline-danger{
+        color: #c82222;
+    }
+
+    .total{
+        
+        font: size 30px ; ;
+
+    }
+
+    .fa-solid fa-heart liked{
+        border-color: #c82222;
+    }
+    .Prixtotal{
+        font-size: large;
+    }
